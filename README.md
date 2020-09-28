@@ -1,0 +1,2 @@
+# samuel
+Bloqueios de app
